@@ -1,8 +1,8 @@
 # QuadTree-LossyImgCompressionPNG
 
 Authors: 
-Ben Cheung
-Scott King (https://github.com/scott-m-king/QuadTree-PNG-Lossy-Image-Compression)
+- Ben Cheung
+- Scott King (https://github.com/scott-m-king/QuadTree-PNG-Lossy-Image-Compression)
 
 A program to compress PNG images based on a calculation of average colour difference across a subsquare of pixels within the image. For this program, we used a QuadTree data structure to store calculated information about the color variance between pixels in a a 2^k x 2^k subsquare of the image. We then prune nodes off the QuadTree if the variance is greater than a user-specified value based on various compression strategies. 
 
