@@ -1,6 +1,6 @@
 # QuadTree-LossyImgCompressionPNG
 
-Authors: 
+Contributors: 
 - Ben Cheung
 - Scott King (https://github.com/scott-m-king/QuadTree-PNG-Lossy-Image-Compression)
 
